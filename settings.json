@@ -12,7 +12,7 @@
     "blocklist-url": "https://github.com/sahsu/transmission-blocklist/releases/latest/download/blocklist.gz",
     "cache-size-mb": 10,
     "dht-enabled": true,
-    "download-dir": "/content/drive/MyDrive/",
+    "download-dir": "/content/downloads/complete/",
     "download-limit": 1,
     "download-limit-enabled": 1,
     "download-queue-enabled": true,
